@@ -148,6 +148,7 @@ result-*
 # Large files
 **/*.zip
 *.zip
+Medicheck AI/medicheak_ai.zip
 **/*.tar.gz
 *.tar.gz
 **/*.7z
