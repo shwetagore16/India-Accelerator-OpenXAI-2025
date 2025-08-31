@@ -143,4 +143,12 @@ Thumbs.db
 **/result
 **/result-*
 result
-result-* 
+result-*
+
+# Large files
+**/*.zip
+*.zip
+**/*.tar.gz
+*.tar.gz
+**/*.7z
+*.7z
